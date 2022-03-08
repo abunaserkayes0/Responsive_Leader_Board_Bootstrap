@@ -4,6 +4,7 @@ body {
 .section-title {
   color: #562eff;
 }
+/* Navigation-Section */
 .navigation {
   background-color: #562eff;
 }
@@ -15,10 +16,12 @@ body {
   color: white;
   font-size: 28px;
 }
+/* Players-Section */
 .player-image {
   width: 56px;
   height: 56px;
 }
+/* Blogs-Section */
 .blog-author {
   color: #562eff;
 }
@@ -26,6 +29,7 @@ body {
   width: 177px;
   height: 117px;
 }
+/* Courses-Section */
 .filled {
   color: #ffc014;
 }
