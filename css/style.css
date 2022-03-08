@@ -1,0 +1,28 @@
+body {
+  background-color: #f3f1ff;
+}
+.section-title {
+  color: #562eff;
+}
+.navigation {
+  background-color: #562eff;
+}
+.logo {
+  width: 40px;
+  height: 50px;
+}
+.bars-icon {
+  color: white;
+  font-size: 28px;
+}
+.player-image {
+  width: 56px;
+  height: 56px;
+}
+.blog-author {
+  color: #562eff;
+}
+.blog-image {
+  width: 177px;
+  height: 117px;
+}
