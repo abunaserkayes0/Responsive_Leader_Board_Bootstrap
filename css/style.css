@@ -26,3 +26,13 @@ body {
   width: 177px;
   height: 117px;
 }
+.filled {
+  color: #ffc014;
+}
+.empty {
+  color: #aeaeae;
+}
+.course-duration {
+  color: #ff4a60;
+  background-color: #ffe4e8;
+}
